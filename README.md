@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jigyasu labana</h1>
 
-<!--
-**workwithme67/workwithme67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Cybersecurity Enthusiast | Full Stack Developer
+</p>
 
-Here are some ideas to get you started:
+🌱 I’m currently learning  
+- Data Structures & Algorithms  
+- Cyber Security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+
+🐍 Python  
+🌐 JavaScript & Web Development  
+⚡ C++  
+🔐 Cybersecurity Basics  
+🛠 Git & GitHub
+
+📫 How to reach me  
+workwithme067@gmail.com
+
+---
+
+### Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,linux,git" />
+</p>
+
+---
+
+⚡ Fun fact: I break things to learn how they work 😄
