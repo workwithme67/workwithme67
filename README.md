@@ -88,7 +88,7 @@ mission: Build secure billion-dollar tech products
 | --------------------- | ----------------------- |
 | 🔐 Password Checker   | Detect weak passwords   |
 | 🍽 Restaurant Website | Modern food website     |
-| 💼 Krutivifag         | Real-world contribution |
+| 💼 Krutivibhag         | Real-world contribution |
 | 🌐 Jigs.org           | Future startup project  |
 
 </div>
