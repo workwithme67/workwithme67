@@ -1,7 +1,8 @@
-<div align="center" style="width:100%;">
-<img src="https://drive.google.com/file/d/1joxGqURRUAhH_IPALL8slJ1kFGo71qmy/view?usp=sharing" 
-style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="JIGYASU LABANA WILL BE BACK"
-</div>
+<p align="center">
+
+<img src="./MyPIC.png" width="100%" alt="Jigyasu Labana Banner"/>
+
+</p>
 
 # <div align="center">⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡</div>
 
@@ -19,9 +20,9 @@ style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px 
 
 </div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJnNXQ4dWRnNjh4d2RyaDR3OW1mN2VmNmI2MjB4MW55eDNnMnFhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="700"/>
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJnNXQ4dWRnNjh4d2RyaDR3OW1mN2VmNmI2MjB4MW55eDNnMnFhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="700"/>
 
-</div>
+</div> -->
 
 ---
 
