@@ -1,3 +1,8 @@
+<div align="center" style="width:100%;">
+<img src="https://drive.google.com/file/d/1joxGqURRUAhH_IPALL8slJ1kFGo71qmy/view?usp=sharing" 
+style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="JIGYASU LABANA WILL BE BACK"
+</div>
+
 # <div align="center">⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡</div>
 
 <div align="center">
